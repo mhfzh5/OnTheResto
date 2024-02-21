@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1704325522 source:d:\ontheresto\main.cpp
+	"Driver_Cust.h"
+	"Restoran.h"
+
+1704375330 source:d:\ontheresto\restoran.cpp
+	"Driver_Cust.h"
+	"Restoran.h"
+
+1704215672 d:\ontheresto\driver_cust.h
+	<iostream>
+	"Driver_Cust.h"
+	"Restoran.h"
+
+1704215672 d:\ontheresto\restoran.h
+	"Driver_Cust.h"
+	"Restoran.h"
+
+1704419119 source:d:\ontheresto\driver_cust.cpp
+	"Driver_Cust.h"
+	"Restoran.h"
+
